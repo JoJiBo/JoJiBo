@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @JoJiBo
+- 👀 I’m interested in making things automatic so people can live easier.
+- 🌱 I’m currently learning Python & Java (Two completely different languages)
+- 💞️ I’m looking to collaborate on anything that can help me learn!
+- 📫 How to reach me:
+    -> Email: jojokniffen@gmail.com
+    -> LinkedIn: @josephkniffen (I'm the guy in a navy suit)
+    -> Discord: @.jo.jo
